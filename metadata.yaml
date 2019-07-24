@@ -1,0 +1,26 @@
+_repo: Il-roccolo-di-Sant-Alipio_59919
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Caccianiga, Antonio
+    birthdate: 1823
+    deathdate: 1909
+    gutenberg_agent_id: '37438'
+    url: http://www.gutenberg.org/2009/agents/37438
+    wikipedia: https://it.wikipedia.org/wiki/Antonio_Caccianiga
+description: ''
+gutenberg_issued: '2019-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59919'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Veneto (Italy) -- History -- 19th century -- Fiction'
+- !lcsh 'Italy -- History -- Revolution of 1848 -- Fiction'
+- GITenberg
+title: Il roccolo di Sant'Alipio
+url: http://www.gutenberg.org/ebooks/59919
